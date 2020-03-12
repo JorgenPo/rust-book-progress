@@ -4,7 +4,7 @@ In README.md all progress is noted. In examples/ directory the book exercises ar
 
 ## Summary
 4 of 21 chapters done
-|####-----------------|
+|####_________________|
 
 ## 10.03.2020 
 
