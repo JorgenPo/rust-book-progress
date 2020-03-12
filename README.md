@@ -3,7 +3,8 @@
 In README.md all progress is noted. In examples/ directory the book exercises are placed.
 
 ## Summary
-2 of 21 chapters done
+4 of 21 chapters done
+|####-----------------|
 
 ## 10.03.2020 
 
@@ -13,3 +14,8 @@ In README.md all progress is noted. In examples/ directory the book exercises ar
 
  - Chapter 2 "Programming a guessing game"
  - Chapter 3 "Common Programming Concepts" (3.1, 3.2, 3.3)
+ 
+## 12.03.2020
+
+ - Chapter 3 (3.4, 4.5)
+ - Chapter 4 "Understanding ownership"
