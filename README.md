@@ -3,8 +3,8 @@
 In README.md all progress is noted. In examples/ directory the book exercises are placed.
 
 ## Summary
-4 of 21 chapters done
-|####_________________|
+5 of 21 chapters done
+|#####________________|
 
 ## 10.03.2020 
 
@@ -19,3 +19,11 @@ In README.md all progress is noted. In examples/ directory the book exercises ar
 
  - Chapter 3 (3.4, 4.5)
  - Chapter 4 "Understanding ownership"
+ 
+## 13.03.2020
+
+ - Chapter 9 (9.1, 9.2)
+ 
+## 14.03.2020
+
+ - Chapter 9 (9.3)
