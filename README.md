@@ -3,8 +3,8 @@
 In README.md all progress is noted. In examples/ directory the book exercises are placed.
 
 ## Summary
-5 of 21 chapters done
-|#####________________|
+7 of 21 chapters done
+|#######______________|
 
 ## 10.03.2020 
 
@@ -27,3 +27,5 @@ In README.md all progress is noted. In examples/ directory the book exercises ar
 ## 14.03.2020
 
  - Chapter 9 (9.3)
+ - Chapter 5 "Using Structs"
+ - Chapter 6 "Enums and Pattern Matching"
