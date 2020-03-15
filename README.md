@@ -3,8 +3,8 @@
 In README.md all progress is noted. In examples/ directory the book exercises are placed.
 
 ## Summary
-8 of 21 chapters done
-|########_____________|
+9 of 21 chapters done
+|▓▓▓▓▓▓▓▓▓░░░░░░░░░░░|
 
 ## 10.03.2020 
 
@@ -30,3 +30,7 @@ In README.md all progress is noted. In examples/ directory the book exercises ar
  - Chapter 5 "Using Structs"
  - Chapter 6 "Enums and Pattern Matching"
  - Chapter 7 "Managing growing packages"
+ 
+## 15.03.2020 
+
+ - Chapter 8 "Common Collections"

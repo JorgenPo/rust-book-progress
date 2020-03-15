@@ -5,3 +5,5 @@ description = "Rust book reading progress and excercises"
 authors = ["George Popoff <popoff96@live.com>"]
 
 [dependencies]
+regex = "1.3.5"
+rand = "0.7.3"
