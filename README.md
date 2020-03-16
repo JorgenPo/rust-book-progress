@@ -3,8 +3,8 @@
 In README.md all progress is noted. In examples/ directory the book exercises are placed.
 
 ## Summary
-10 of 21 chapters done
-|▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░|
+11 of 21 chapters done
+|▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░|
 
 ## 10.03.2020 
 
@@ -22,7 +22,7 @@ In README.md all progress is noted. In examples/ directory the book exercises ar
  
 ## 13.03.2020
 
- - Chapter 9 (9.1, 9.2)
+ - Chapter 9 "Error Handling" (9.1, 9.2)
  
 ## 14.03.2020
 
@@ -35,3 +35,7 @@ In README.md all progress is noted. In examples/ directory the book exercises ar
 
  - Chapter 8 "Common Collections"
  - Chapter 10 "Generics, Traits, Lifetimes"
+ 
+## 16.03.2020
+
+ - Chapter 11 "Writing automated tests"

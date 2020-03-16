@@ -30,3 +30,24 @@ fn main() {
     println!("Can rect1 hold rect3? {}", rect1.can_hold(&rect3));
     println!("Area of rect1: {}", rect1.area());
 }
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn larger_can_hold_smaller() {
+        let larger = Rectangle{width: 20, height: 10};
+        let smaller = Rectangle{width: 10, height: 8};
+
+        assert!(larger.can_hold(&smaller));
+    }
+
+    #[test]
+    fn smaller_cant_hold_smaller() {
+        let larger = Rectangle{width: 8, height: 2};
+        let smaller = Rectangle{width: 2, height: 2};
+
+        assert!(!smaller.can_hold(&larger));
+    }
+}
