@@ -39,3 +39,4 @@ In README.md all progress is noted. In examples/ directory the book exercises ar
 ## 16.03.2020
 
  - Chapter 11 "Writing automated tests"
+ - Chapter 12 "An I/O Project" (12.1, 12.2, 12.3)
