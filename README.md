@@ -3,8 +3,8 @@
 In README.md all progress is noted. In examples/ directory the book exercises are placed.
 
 ## Summary
-11 of 21 chapters done
-|▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░|
+12 of 21 chapters done
+|▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░|
 
 ## 10.03.2020 
 
@@ -40,3 +40,7 @@ In README.md all progress is noted. In examples/ directory the book exercises ar
 
  - Chapter 11 "Writing automated tests"
  - Chapter 12 "An I/O Project" (12.1, 12.2, 12.3)
+ 
+## 17.03.2020
+
+ - Chapter 12 "An I/O Project" (12.4, 12.5, 12.6)
