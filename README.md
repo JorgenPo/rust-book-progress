@@ -44,3 +44,7 @@ In README.md all progress is noted. In examples/ directory the book exercises ar
 ## 17.03.2020
 
  - Chapter 12 "An I/O Project" (12.4, 12.5, 12.6)
+ 
+## 19.03.2020
+
+ - Chapter 13 "Functional language features"
