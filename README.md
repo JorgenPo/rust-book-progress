@@ -3,8 +3,8 @@
 In README.md all progress is noted. In examples/ directory the book exercises are placed.
 
 ## Summary
-12 of 21 chapters done
-|▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░|
+14 of 21 chapters done
+|▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░|
 
 ## 10.03.2020 
 
@@ -48,3 +48,7 @@ In README.md all progress is noted. In examples/ directory the book exercises ar
 ## 19.03.2020
 
  - Chapter 13 "Functional language features"
+ 
+## 22.03.2020
+
+ - Chapter 14 "More about Cargo"
