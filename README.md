@@ -56,3 +56,7 @@ In README.md all progress is noted. In examples/ directory the book exercises ar
 ## 24.03.2020
 
  - Chapter 15 "Smart pointers" (15.1, 15.2, 15.3)
+ 
+## 28.03.2020
+
+ - Chapter 15 "Smart pointers" (15.4, 15.5, 15.6)
