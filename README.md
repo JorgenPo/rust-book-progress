@@ -3,8 +3,8 @@
 In README.md all progress is noted. In examples/ directory the book exercises are placed.
 
 ## Summary
-14 of 21 chapters done
-|▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░|
+16 of 21 chapters done
+|▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░|
 
 ## 10.03.2020 
 
@@ -60,3 +60,7 @@ In README.md all progress is noted. In examples/ directory the book exercises ar
 ## 28.03.2020
 
  - Chapter 15 "Smart pointers" (15.4, 15.5, 15.6)
+ 
+## 05.04.2020
+
+ - Chapter 16 "Fearless concurrency"
