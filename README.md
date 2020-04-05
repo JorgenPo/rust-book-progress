@@ -64,3 +64,4 @@ In README.md all progress is noted. In examples/ directory the book exercises ar
 ## 05.04.2020
 
  - Chapter 16 "Fearless concurrency"
+ - Chapter 17 "Object oriented features"
